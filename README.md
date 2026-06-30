@@ -4,7 +4,7 @@
 
 This project contains automated UI tests developed with Playwright using JavaScript.
 
-The objective is to demonstrate knowledge of web test automation, end-to-end testing, assertions, and test organization following QA best practices.
+This project demonstrates practical experience with web test automation using Playwright, including end-to-end testing, assertions and test organization following QA best practices.
 
 ## Technologies
 
