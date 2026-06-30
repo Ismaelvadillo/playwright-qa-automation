@@ -1,6 +1,6 @@
 # Playwright QA Automation
 
-## Overview
+## This repository was created as part of my QA training to practice automated web testing using Playwright and JavaScript.
 
 This project contains automated UI tests developed with Playwright using JavaScript.
 
